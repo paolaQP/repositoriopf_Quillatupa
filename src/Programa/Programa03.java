@@ -5,7 +5,7 @@ public class Programa03 {
  //metodo principal
  public static void main(String args[]){
      //Cambio en proyecto NeatBeans
-     System.out.print("Modificación para verificar la actualización del proyecto en GitHub y en Jenkins.");
+     System.out.print("Modificación para verificar la actualización del proyecto en GitHub y en Jenkins");
  //declarar variables
  int vt1, vt2, vt3;
  double sm, pt, c;
